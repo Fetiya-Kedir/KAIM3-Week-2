@@ -7,8 +7,8 @@ The goal of this challenge is to analyze data from TellCo, a mobile service prov
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/Fetiya-Kedir/KAIM3-Week-2
+   cd KAIM3-Week-2
    ```
 
 2. **Set Up a Virtual Environment:**
