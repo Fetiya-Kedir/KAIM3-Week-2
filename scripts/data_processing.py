@@ -11,7 +11,7 @@ with open(input_file, "r") as file:
             if len(row) > 1:  
                 data_rows.append(row)
 
-# Define column names
+
 columns = [
     "Bearer Id", "Start", "Start ms", "End", "End ms", "Dur. (ms)", "IMSI",
     "MSISDN/Number", "IMEI", "Last Location Name", "Avg RTT DL (ms)", "Avg RTT UL (ms)",
