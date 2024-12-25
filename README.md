@@ -38,5 +38,3 @@ The goal of this challenge is to analyze data from TellCo, a mobile service prov
      ```bash
      pytest
      ```
-
-For more details, refer to the project documentation or contact the project maintainer.
